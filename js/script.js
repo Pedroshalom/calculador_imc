@@ -19,21 +19,21 @@ const data = [
       max: 29.9,
       classification: "Entre 25,0 e 29,9",
       info: "Sobrepeso",
-      obesity: "I",
+      obesity: "1",
     },
     {
       min: 30,
       max: 39.9,
       classification: "Entre 30,0 e 39,9",
       info: "Obesidade",
-      obesity: "II",
+      obesity: "2",
     },
     {
       min: 40,
       max: 99,
       classification: "Maior que 40,0",
       info: "Obesidade grave",
-      obesity: "III",
+      obesity: "3",
     },
   ];
   
