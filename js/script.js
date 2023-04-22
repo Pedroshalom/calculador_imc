@@ -53,7 +53,7 @@ const data = [
   
   const backBtn = document.querySelector("#back-btn");
   
-  // Funções criadas
+  // Funções
   function createTable(data) {
     data.forEach((item) => {
       const div = document.createElement("div");
